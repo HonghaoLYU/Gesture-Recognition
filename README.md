@@ -2,4 +2,4 @@
 ROS TF Solution for Hand Gesture Recognition.
 
 ## Contributor:
-HOnghao Lv, Siyi Li
+Honghao Lv, Siyi Li
